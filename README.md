@@ -10,6 +10,7 @@ Runner 1, 2, and 3 show if there were players on base during an at bat, and for 
 ### Example - Albert Pujols' Run Expectancy
 After creating the run expectancy matrix, the goal of the next step is to run an example on one player - in this instance it is St. Louis Cardinals First Baseman Albert Pujols. 
 After loading his data, I viewed how many times he was at bat with each combination of players on base throughout the season, and how many runs he created on each combination. Looking at the table, he had the most at bats with no runners on or a runner on first base, and he produced the most runs in those at bats. 
+
 <img width="193" alt="Screenshot 2023-11-22 at 1 25 32 PM" src="https://github.com/vivekdivakarla12/MLB-Run-Expectancy/assets/11672096/ce4bd9e9-cba5-44fa-bada-5b22952446b4">
 
 After creating the table, I graphed each the same situation, with each dot being an at bat. The biggest takeaway from this graph is when there are more runners on base, the range of run values increase, as there are different possible outcomes. 
